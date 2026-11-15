@@ -1,0 +1,11 @@
+{
+  "$schema": "https://openmods.nexus/openmods.schema.json",
+  "openmods": 1,
+  "name": "Cutscene Skip",
+  "summary": "Unlocks the game's own cutscene skip: hold E (gamepad B or Circle) in a story cutscene until the skip ring fills. A few scenes still cannot be skipped.",
+  "games": ["phantom-blade-zero"],
+  "tags": ["quality-of-life"],
+  "requires": ["UE4SS (tested with v3.0.1-1195-g1ceefac8)"],
+  "gameVersions": ["Steam build 26367565"],
+  "cover": "docs/cover.webp"
+}

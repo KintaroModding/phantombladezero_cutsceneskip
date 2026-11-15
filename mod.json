@@ -1,0 +1,14 @@
+{
+  "name": "Cutscene Skip",
+  "folder": "phantombladezero_cutsceneskip",
+  "author": "Kintaro",
+  "version": "1.0",
+  "description": "Unlocks the game's own manual skip for most story cutscenes: hold E (gamepad B or Circle) until the skip ring fills. A few scenes still cannot be skipped. Enable in config.lua turns it on or off, live in game.",
+  "kind": "ue4ss",
+  "game": "phantombladezero",
+  "gameFolder": "PBZ",
+  "win64Path": "platform\\steam",
+  "gameVersion": "CL-302256_JKS-17280",
+  "engine": "UE5_7",
+  "ue4ss": "v3.0.1-1195-g1ceefac8"
+}
